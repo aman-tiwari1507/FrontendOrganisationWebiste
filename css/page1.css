@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+}
+body{
+    line-height: 1.8;
+}
+footer{
+    padding: 10px;
+    margin-top: 20px;
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+
+}
+.jumbotron{
+    background: lightgray;
+}
+
+.design{
+    text-decoration: underline;
+}
