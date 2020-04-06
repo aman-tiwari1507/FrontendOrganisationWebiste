@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,600,700,900);
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+img{
+    height: 250px;
+    width: 100px;
+}
+.row{
+    width: 100% !important;
+}
+.nav-back{
+    background-color: #050505;
+}
+.nav{
+    margin:auto;
+    padding-bottom: 15px;
+}
+
+.jumbotron{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.button{
+    background-color:#2d93ad;
+    border: solid 1px #2d93ad;
+    color: white;
+    border-radius: 10px;
+    font-size: large;
+
+}
+.button1{
+    margin-top: 10px;
+}
+
+.button:hover{
+    background-color:#050505 ;
+    color:white;
+    font-weight: bolder;
+    text-decoration: underline;
+    border: 3px #050505 solid;
+    
+}
+
+.card{
+    height: 400px;
+    text-align: center;
+    background-color: #050505;
+    color: white;
+}
+
+.card-upper{
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    
+}
+
+.card-lower{
+    margin:auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.card:hover{
+    background-color: #b5f44a;
+    color: #050505;
+    border: solid #b5f44a 3px;
+}
+
+#last-button{
+    text-align: center;
+    margin: auto;
+    margin-right: 30px;
+}
+footer{
+    padding: 10px;
+    margin-top: 20px;
+    color: black;
+    background-color: #2d93ad;
+    text-align: center;
+
+}
+
