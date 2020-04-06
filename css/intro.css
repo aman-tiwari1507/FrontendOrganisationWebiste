@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+img{
+    border-radius: 30%;
+    margin-bottom: 20px;
+}
+
+footer{
+    padding: 10px;
+    margin-top: 20px;
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+
+}
+
+.card-title{
+    text-decoration: underline;
+}
+
+.card{
+    text-align: center;
+    border: solid 2px #0f0f0f;
+    height: 700px;
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.card-body{
+    text-align: center !important;
+}
+
+hr{
+    background-color: #0f0f0f;
+    height: 2px;
+}
